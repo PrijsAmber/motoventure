@@ -1,0 +1,78 @@
+fieldLayouts:
+  4b452109-0d4f-4bda-9c25-c72f26ff9fcd:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\EntryTitleField
+            warning: null
+            width: 100
+          -
+            fieldUid: ec0b9083-2f59-4ddd-83f1-dfb690f09146 # Hero Title
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 159c7f7a-b30c-42dd-9074-3f07fa1ae7fa # Hero Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Hero
+        sortOrder: 1
+      -
+        elements:
+          -
+            fieldUid: 5e241331-88c3-48db-b9e9-8ea61cab8606 # Riders Intro
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 193119e6-bbc3-4e01-8dec-611dda43f0b7 # Riders
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Riders
+        sortOrder: 2
+handle: home
+hasTitleField: false
+name: Home
+section: 2a373ac6-7cec-4724-89dd-df69288ea7da # Home
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

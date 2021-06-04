@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: 3850a70b-3e35-49b0-9c64-fe99546d3258 # Home Page
+handle: heroTitle
+instructions: ''
+name: 'Hero Title'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

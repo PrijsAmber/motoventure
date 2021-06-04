@@ -1,0 +1,11 @@
+enableVersioning: true
+handle: home
+name: Home
+propagationMethod: all
+siteSettings:
+  94005540-fc9c-45b9-9bb5-e8aeb207b543: # Motoventure
+    enabledByDefault: true
+    hasUrls: true
+    template: home
+    uriFormat: __home__
+type: single

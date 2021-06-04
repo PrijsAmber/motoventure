@@ -1,0 +1,9 @@
+baseUrl: $PRIMARY_SITE_URL
+enabled: true
+handle: default
+hasUrls: true
+language: nl
+name: Motoventure
+primary: true
+siteGroup: 720baae4-1e96-41f7-bad1-bf159d9582f3 # Motoventure
+sortOrder: 1

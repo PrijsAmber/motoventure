@@ -1,0 +1,23 @@
+dateModified: 1622808772
+email:
+  fromEmail: amberprijs58@caiway.net
+  fromName: Motoventure
+  transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+system:
+  edition: solo
+  live: true
+  name: Motoventure
+  retryDuration: null
+  schemaVersion: 3.6.8
+  timeZone: Europe/Amsterdam
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
